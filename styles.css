@@ -108,9 +108,6 @@ h3 {
 .raj{
   margin-bottom:50px;
 }
-.button{
-  margin-bottom:50px;
-}
 .chikki{
   width:50%;
   margin:0 auto 0 auto;
@@ -118,23 +115,55 @@ h3 {
   margin-bottom:40px;
 }
 .bottom-container{
+  margin-top:150px;
   background-color:#66BFBF;
   height:65px;
   padding:50px;
 }
-.button{
-  margin-bottom:50px;
+.contact-me{
+  height:auto;
 }
 .footer-link{
   margin:0 25px 0 25px;
   text-decoration: none;
-  color:#EAF6F6;
+  color:#11999E;
   font-weight:normal;
   font-style:serif;
+}
+.footer-link:hover{
+  color:#EAF6F6;
 }
 .ishmarty{
   line-height:2;
   margin-top:40px;
   color:#EAF6F6;
   font-size:12px;
+}
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: relative;
+  top: 40px;
+}
+
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  text-decoration: none;
 }
