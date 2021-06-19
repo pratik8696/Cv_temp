@@ -1,0 +1,140 @@
+body {
+  text-align: center;
+  margin: 0px;
+  font-family: 'Merriweather', serif;
+  color:#687980;
+}
+.underline{
+  text-decoration-thickness:3px;
+}
+h1 {
+  font-size: 90px;
+  /*1em=16px=100% use rem inplace of em*/
+  width: 30%;
+  color: #66BFBF;
+  margin: 32px auto 0px auto;
+  font-family: 'Sacramento', cursive;
+  position: relative;
+  top: 50px;
+  /line-height: 2;*/
+}
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+.topc {
+  height: auto;
+  background-color: #E4F9F5;
+  margin: 0px;
+}
+.programmer {
+  color: #66BFBF;
+  margin-bottom: 30px;
+  position: relative;
+  top: 20px;
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+  font-weight: normal;
+}
+.bottom-cloud {
+  position: absolute;
+  top: 330px;
+  left: 350px;
+}
+.top-cloud {
+  position: relative;
+  top: 50px;
+  left: 400px;
+}
+.middle-container {}
+.Profile {
+  height: 180px;
+  width: 180px;
+  object-fit: cover;
+  position: relative;
+  top: 50px;
+  margin-bottom: 50px;
+}
+.skill-row{
+  margin:100px auto 100px auto;
+  width:50%;
+  text-align: left;
+  line-height:2;
+}
+.computer{
+  width:25%;
+  float:left;
+  border-radius: 100%;
+  margin-right:30px;
+}
+.chilli{
+  width:25%;
+  float:right;
+  margin-left: 30px;
+}
+.hello{
+  font-weight: normal;
+  font-size: 40px;
+  margin-bottom:40px;
+}
+.hello-description{
+  width:30%;
+  margin:0 auto 0 auto;
+  line-height:2;
+}
+.profile{
+  margin-top:50px;
+}
+.profile-hr{
+  margin:90px auto 90px auto;
+  width:10%;
+  border:none;
+  border-top:dotted;
+  border-width: 8px;
+  border-color: #DDDDDD;
+}
+.bilua{
+  font-size: 40px;
+    font-weight: normal;
+    margin-bottom:60px;
+}
+.designanddevelopment{
+  font-weight:600;
+}
+.raj{
+  margin-bottom:50px;
+}
+.button{
+  margin-bottom:50px;
+}
+.chikki{
+  width:50%;
+  margin:0 auto 0 auto;
+  line-height:2;
+  margin-bottom:40px;
+}
+.bottom-container{
+  background-color:#66BFBF;
+  height:65px;
+  padding:50px;
+}
+.button{
+  margin-bottom:50px;
+}
+.footer-link{
+  margin:0 25px 0 25px;
+  text-decoration: none;
+  color:#EAF6F6;
+  font-weight:normal;
+  font-style:serif;
+}
+.ishmarty{
+  line-height:2;
+  margin-top:40px;
+  color:#EAF6F6;
+  font-size:12px;
+}
